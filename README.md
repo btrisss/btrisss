@@ -1,4 +1,6 @@
-## Hi there 👋
+## Beatriz Sanz 👋
+
+Estudiante de la URJC Grado Ingenieria de la Ciberseguridad 🧑‍💻
 
 <!--
 **btrisss/btrisss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
